@@ -10,3 +10,4 @@ Motto🕵🏻‍♂️<br>
 ✔️Steadily from day to day<br>
 ✔️Even a small code is always effective.<br>
 
+<img src="https://github.com/Johnjihwan/2020_Gsm_Hackathon/blob/master/img/gsm_h1.png" width="100">
