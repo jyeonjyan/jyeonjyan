@@ -12,4 +12,4 @@
 ✔️Even a small code is always effective.<br>
 <br>
 🛠STACK🛠<br>
-HTML5 CSS3 JavaScrip(ES6) Jquery(ui) Php C JAVA PYTHON Ajax Json Django
+HTML5 CSS3 JavaScript(ES6) Jquery(ui) Php C JAVA PYTHON Ajax Json Django
