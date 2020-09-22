@@ -12,5 +12,5 @@
 ✔️Even a small code is always effective.<br>
 <br>
 🛠STACK🛠<br>
-WEB: Html5, Css3, JavaScript, Jquery, Php, Django, Ajax, Json, VueJs
+WEB: Html5, Css3, JavaScript, Jquery, Php, Django, Ajax, Json, VueJs<br>
 Language: C, Java, Python
