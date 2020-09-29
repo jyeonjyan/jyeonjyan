@@ -17,4 +17,4 @@ Language: C, Java, Python <br>
 <br>
 📌 NOTICE <br>
 현재 Repository 중 private 처리가 된게 많아 contribution 잔디가 군데군데 비활성화 돼 있습니다.<br>
-~ persent Repository Real contribution을 확인하고 싶으시면 insta DM 주세요.☺️☺️
+~ persent Repository contribution을 상세히 확인하고 싶으시면, insta DM 주세요.☺️☺️
