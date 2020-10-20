@@ -12,7 +12,7 @@
 ✔️Even a small code is always effective.<br>
 <br>
 🛠STACK🛠<br>
-WEB: Html5, Css3, JavaScript, Jquery, Php, Django, VueJs, Typescript, NodeJs<br>
+WEB: Html5, Css3, JavaScript, Jquery, Php, Django, VueJs, TypeScript, NodeJs<br>
 Language: C, Java, Python <br>
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Johnjihwan)](https://github.com/anuraghazra/github-readme-stats)
