@@ -11,11 +11,6 @@
 ✔️Steadily from day to day<br>
 ✔️Even a small code is always effective.<br>
 <br>
-🛠STACK🛠<br>
-WEB: Html5, Css3, JavaScript, Jquery, Php, Django, VueJs, TypeScript, NodeJs<br>
-Language: C, Java, Python <br>
-UsingTool: MacOS, VsCode, IntelliJ, Xcode, iTerm2, Atom<br>
-<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Johnjihwan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnjihwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
