@@ -13,7 +13,3 @@
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Johnjihwan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnjihwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>📌 NOTICE <br>
-현재 Repository 중 private 처리가 된게 많아 contribution 잔디가 군데군데 비활성화 돼 있습니다.<br>
-~ persent Repository contribution을 상세히 확인하고 싶으시면, insta DM 주세요.☺️☺️
