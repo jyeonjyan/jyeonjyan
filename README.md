@@ -4,7 +4,7 @@
 **Johnjihwan/Johnjihwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🏫Affiliation: GwangjuSoftwareMiesterHighschool🏫<br>
-📌GroupActivity: GsmFunctionalClass(WebDesign & Develop)<br><br>
+📌GroupActivity: Gsm-Functional-Class(WebDesign & Develop)<br><br>
 
 🕵🏻‍♂️Motto<br>
 ✔️Steadily from day to day<br>
