@@ -9,5 +9,6 @@
 🕵🏻‍♂️Motto<br>
 ✔️Steadily from day to day<br>
 ✔️Even a small code is always effective.<br>
+✔️Ideas are more important than development.<br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnjihwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
