@@ -21,7 +21,10 @@
 > - GSM 웹테크놀로지스 기능반  
 > - GSM 방송부   
 
-
+**🙉 Interest**
+> - 사용자 중심의 UX/UI 구현에 관심이 있습니다.
+> - Artificial intelligence에 관심이 있습니다.
+> - 배드민턴을 너무 좋아하고 사랑합니다.
 
 <br>
 
