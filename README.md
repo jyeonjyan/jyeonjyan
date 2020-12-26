@@ -11,7 +11,7 @@
 
 **🛠 Stack** <br>
 > * Frontend: html, css, js(es6, React, ReactNative)  
-> * Backend: php, springFramework  
+> * Backend: php, NodeJs, springFramework  
 > * Language: C, JAVA, Python  
 > * DBMS: Mysql
 
