@@ -10,8 +10,8 @@
 > 어떻게 그렇게 될 수 있는가 _*스티브 호킹*
 
 **🛠 Stack** <br>
-> * Frontend: html, css, js(es6, React, ReactNative)  
-> * Backend: php, NodeJs, springFramework  
+> * Fe-Stack: html, css, js(es6, React, ReactNative)  
+> * Be-Stack: php, NodeJs, springFramework  
 > * Language: C, JAVA, Python  
 > * DBMS: Mysql
 
