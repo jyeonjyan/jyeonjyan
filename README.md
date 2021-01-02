@@ -20,8 +20,3 @@
 > - 광주소프트웨어마이스터고등학교  
 > - GSM 웹테크놀로지스 기능반  
 > - GSM 방송부   
-
-<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnjihwan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
