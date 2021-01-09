@@ -11,7 +11,7 @@
 
 **🛠 Stack** <br>
 > * Fe-Stack: html, css, js(es6, React, ReactNative)  
-> * Be-Stack: php, NodeJs, springFramework  
+> * Be-Stack: php, NodeJs, Spring, SpringBoot  
 > * Language: C, Java, Python  
 > * DBMS: Mysql
 
