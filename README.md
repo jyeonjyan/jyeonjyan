@@ -4,10 +4,7 @@
 **Johnjihwan/Johnjihwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ******
- **<h3>🙋🏻‍♂️ 무엇(what to do)과 어떻게(how to do)를 중요하게 생각하는 전지환 입니다.</h3>**
-> 나는 변화를 원하는가?  
-> 변해서 무엇이 되고 싶은가  
-> 어떻게 그렇게 될 수 있는가 _*스티브 호킹*
+ ### **👋🏻 안녕하세요 소프트웨어 개발하는 전지환 입니다.**
 
 **🛠 Stack** <br>
 > * Fe-Stack: html, css, js(es6, React, ReactNative)  
