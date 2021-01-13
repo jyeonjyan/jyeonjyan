@@ -5,14 +5,5 @@
 
  ### **👋🏻 안녕하세요 소프트웨어 개발하는 전지환 입니다.**
 
-**🛠 Stack** <br>
-> * Fe-Stack: html, css, js(es6, React, ReactNative)  
-> * Be-Stack: php, NodeJs, Spring, SpringBoot  
-> * Language: C, Java, Python  
-> * DBMS: Mysql
-
-
-**🏫 Affiliation**
-> - 광주소프트웨어마이스터고등학교  
-> - GSM 웹테크놀로지스 기능반  
-> - GSM 방송부   
+> **✅ 사용자 중심 서비스 구현에 관심이 많습니다**  
+> **✅ 조직문화에 관심이 많습니다**  
