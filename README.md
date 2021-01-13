@@ -3,7 +3,6 @@
 <!--
 **Johnjihwan/Johnjihwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-******
  ### **👋🏻 안녕하세요 소프트웨어 개발하는 전지환 입니다.**
 
 **🛠 Stack** <br>
