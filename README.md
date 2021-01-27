@@ -6,4 +6,10 @@
  ### **👋🏻 안녕하세요 소프트웨어 개발하는 전지환 입니다.**
 
 > **✅ 사용자 중심 서비스 구현에 관심이 많습니다**  
-> **✅ 조직문화에 관심이 많습니다**  
+> **✅ 조직문화에 관심이 많습니다**    
+
+### **🛠 STACK | 사용기술**
+* **Languages: Java, Python, JavaScript .. etc**
+* **Frameworks: Spring, SpringBoot, Nodejs, React .. etc**
+* **API: RESTAPI, HTTPAPI**
+* **DBMS: Mysql, H2 Database**
