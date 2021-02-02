@@ -12,4 +12,4 @@
 * **Languages: Java, Python, JavaScript, TypeScript .. etc**
 * **Frameworks: Spring, SpringBoot, Nodejs, React .. etc**
 * **API: RESTAPI, HTTPAPI**
-* **DBMS: Mysql, H2 Database**
+* **DBMS: MySQL, H2 Database**
