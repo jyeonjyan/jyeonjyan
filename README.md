@@ -3,7 +3,7 @@
 <!--
 **Johnjihwan/Johnjihwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- ### **👋🏻 안녕하세요 소프트웨어 개발하는 전지환 입니다.**
+ ### **👋🏻 Jeon-jihwan | 전지환**
 
 > **✅ 사용자 중심 서비스 구현에 관심이 많습니다**  
 > **✅ 조직문화에 관심이 많습니다**    
