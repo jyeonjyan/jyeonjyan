@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 FullStack Developer 🧑🏻‍💻
+## 🧑🏻‍💻 Serverside Engineer 🧑🏻‍💻
 
 ### **👋🏻 Jeon-jihwan | 전지환**
 
