@@ -3,4 +3,4 @@
 * Frameworks: SpringBoot+JPA, Nodejs, React .. etc
 * DBMS: MySQL, H2 Database
 * DevOps: AWS EC2, Route 53  
-* API: HTTPAPI
+* API: HTTP API
