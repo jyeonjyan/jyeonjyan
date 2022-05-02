@@ -4,5 +4,5 @@
 
 ### interested in..  
 [Kotlin](https://github.com/jyeonjyan/kojaengi)  
-[GoF 디자인 패턴](https://github.com/jyeonjyan/GoF)  
+[GoF Design Patterns](https://github.com/jyeonjyan/GoF)  
 [Micro Service Architecture](https://github.com/jyeonjyan/microservice-tutorial)
