@@ -3,6 +3,6 @@
 똑똑하지 않기에 꾸준함이 비범함을 만든다고 믿고, 이것이 제가 갖춰야 할 스탠스라 생각합니다.
 
 ### interested in..  
-[Kotlin:: 코쟁이](https://github.com/jyeonjyan/kojaengi)  
+[Kotlin](https://github.com/jyeonjyan/kojaengi)  
 [GoF 디자인 패턴](https://github.com/jyeonjyan/GoF)  
 [Micro Service Architecture](https://github.com/jyeonjyan/microservice-tutorial)
